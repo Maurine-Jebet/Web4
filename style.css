@@ -1,0 +1,83 @@
+#lists{
+    display: flex;
+    justify-content: space-between;
+}
+#joh{
+    font-weight: bold;
+}
+#good{
+    font-weight: bold;
+    margin-left: 35%;
+}
+#image{
+    margin-left: 20%;
+    width: 800px;
+}
+#clothes{
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+#stories{
+    width: 400px;
+}
+#dotted{
+    width: 400px;
+}
+#shh{
+    width: 400px;
+}
+#trao{
+    width: 400px;
+}
+#head2{
+    margin-left: 40%;
+}
+#closet1{
+    width: 600px;
+}
+#closet2{
+    width: 600px;
+}
+#disc{
+    margin-left: 35%;
+}
+.containerC{
+    background-color: aquamarine;
+}
+.containerC button{
+    border-radius: 50px 50px;
+    background-color: blue;
+    color:white ;
+}
+.containerD{
+    width: 800px;
+    display: flex;
+}
+#green{
+    width: 500px;
+}
+#white{
+    width: 500px;
+}
+.footer{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+}
+.footer1{
+    margin-left: 10%;
+}
+.footer2{
+    margin-left: 15%;
+}
+.footer3{
+    margin-left: 15%;
+}
+#containerA button{
+    border-radius: 85px 85px;
+    color: blue;
+    background-color: darksalmon;
+}
